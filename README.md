@@ -9,7 +9,7 @@ If the list contains a member you believe shouldn't be here please let me know. 
 
 There will be some names in this list who provide unwarranted hype, but generally their content is up to date and relevant. The list generally excludes those accounts who only share price, perceived value or charting information.
 
-Also, Also, see my compiled list of X accounts who set out to misinform you with out-of-date irrelevant, false and/or made up misinformation - the shitposter list https://github.com/rippleitinnz/XRP-shitposters-on-X
+Also, Also, see my compiled list of X accounts who misinform you with out-of-date, irrelevant, false and/or made up misinformation - the shitposter list https://github.com/rippleitinnz/XRP-shitposters-on-X
 
 Last updated 30 August 2023
 
