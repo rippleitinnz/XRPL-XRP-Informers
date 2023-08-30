@@ -20,7 +20,6 @@ Last updated 30 August 2023
 | Tony Edward (Thinking Crypto Podcast)                  | @ThinkingCrypto1      | [Profile](https://x.com/ThinkingCrypto1)         |
 | Denis Angell ! 🪝                                       | @angell_denis         | [Profile](https://x.com/angell_denis)            |
 | Kevin Cage                                             | @Kevin_Cage_          | [Profile](https://x.com/Kevin_Cage_)             |
-| Zach Rector                                            | @ZachRector7          | [Profile](https://x.com/ZachRector7)             |
 | James K. Filan                                         | @FilanLaw             | [Profile](https://x.com/FilanLaw)                |
 | Rose🌹                                                 | @RoseXrp              | [Profile](https://x.com/RoseXrp)                 |
 | The Audacious Investor                                 | @audaciouslnvest      | [Profile](https://x.com/audaciouslnvest)         |
