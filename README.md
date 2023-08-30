@@ -36,7 +36,7 @@ Last updated 30 August 2023
 | Daniel 🇮🇲🪝                                             | @daniel_wwf           | [Profile](https://x.com/sirkunt)                 |
 | Panos 🔺 {X}                                          | @panosmek              | [Profile](https://x.com/panosmek)               |
 | Fomo {X}🪝                                              | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO)            |
-| XRPGoat                                                | @My@XrpGoat           | [Profile](https://x.com/MyC@XrpGoat)             |
+| XRPGoat                                                | @XrpGoat           | [Profile](https://x.com/XrpGoat)             |
 | Mayukha Vadari                                         | @msvadari             | [Profile](https://x.com/msvadari)                |
 | Neil Hartner                                           | @illneil              | [Profile](https://x.com/illneil)                 |
 | nixerFFM                                               | @nixerFFM             | [Profile](https://x.com/nixerFFM)                | 
