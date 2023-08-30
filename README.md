@@ -9,6 +9,8 @@ If the list contains a member you believe shouldn't be here please let me know. 
 
 There will be some names in this list who provide unwarranted hype, but generally their content is up to date and relevant. The list generally excludes those accounts who only share price, perceived value or charting information.
 
+Also, Also, see my compiled list of X accounts who set out to misinform you with out-of-date irrelevant, false and/or made up misinformation - the shitposter list https://github.com/rippleitinnz/XRP-shitposters-on-X
+
 Last updated 30 August 2023
 
 ## List of Informers
@@ -16,12 +18,12 @@ Last updated 30 August 2023
 | Name                                                   | Twitter Handle        | Profile Link                                     |
 |--------------------------------------------------------|-----------------------|--------------------------------------------------|
 | Tony Edward (Thinking Crypto Podcast)                  | @ThinkingCrypto1      | [Profile](https://x.com/ThinkingCrypto1)         |
-| Denis Angell ! 🪝                                       | @angell_denis         | [Profile](https://x.com/angell_denis)           |
+| Denis Angell ! 🪝                                       | @angell_denis         | [Profile](https://x.com/angell_denis)            |
 | Kevin Cage                                             | @Kevin_Cage_          | [Profile](https://x.com/Kevin_Cage_)             |
 | Zach Rector                                            | @ZachRector7          | [Profile](https://x.com/ZachRector7)             |
 | James K. Filan                                         | @FilanLaw             | [Profile](https://x.com/FilanLaw)                |
 | Rose🌹                                                 | @RoseXrp              | [Profile](https://x.com/RoseXrp)                 |
-| The Audacious Investor                                 | @audaciouslnvest      | [Profile](https://x.com/audaciouslnvest)          |
+| The Audacious Investor                                 | @audaciouslnvest      | [Profile](https://x.com/audaciouslnvest)         |
 | NotFinancialAdvice.Crypto                              | @NFAdotcrypto        | [Profile](https://x.com/NFAdotcrypto)             |
 | XRPcryptowolf                                          | @XRPcryptowolf        | [Profile](https://x.com/XRPcryptowolf)           |
 |  ***RECENTLY ADDED above here.***                      |                       |                                                  |
