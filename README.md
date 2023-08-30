@@ -15,13 +15,23 @@ Last updated 30 August 2023
 
 | Name                                                   | Twitter Handle        | Profile Link                                     |
 |--------------------------------------------------------|-----------------------|--------------------------------------------------|
+| Tony Edward (Thinking Crypto Podcast)                  | @ThinkingCrypto1      | [Profile](https://x.com/ThinkingCrypto1)         |
+| Denis Angell ! 🪝                                       | @angell_denis         | [Profile](https://x.com/angell_denis)           |
+| Kevin Cage                                             | @Kevin_Cage_          | [Profile](https://x.com/Kevin_Cage_)             |
+| Zach Rector                                            | @ZachRector7          | [Profile](https://x.com/ZachRector7)             |
+| James K. Filan                                         | @FilanLaw             | [Profile](https://x.com/FilanLaw)                |
+| Rose🌹                                                 | @RoseXrp              | [Profile](https://x.com/RoseXrp)                 |
+| The Audacious Investor                                 | @audaciouslnvest      | [Profile](https://x.com/audaciouslnvest)          |
+| NotFinancialAdvice.Crypto                              | @NFAdotcrypto        | [Profile](https://x.com/NFAdotcrypto)             |
+| XRPcryptowolf                                          | @XRPcryptowolf        | [Profile](https://x.com/XRPcryptowolf)           |
+|  ***RECENTLY ADDED above here.***                      |                       |                                                  |
 | WrathofKahneman 🪝                                      | @WKahneman            | [Profile](https://x.com/WKahneman)               |
-| 🌸Crypto Eri 🪝Carpe Diem                              | @sentosumosaba        | [Profile](https://x.com/sentosumosaba)           |
+| 🌸Crypto Eri 🪝Carpe Diem                              | @sentosumosaba        | [Profile](https://x.com/sentosumosaba)            |
 | Krippenreiter                                          | @Krippenreiter        | [Profile](https://x.com/Krippenreiter)           |
 | Michael Nardolillo                                     | @MikeNardolillo       | [Profile](https://x.com/MikeNardolillo)          |
 | King Solomon                                           | @IOV_OWL              | [Profile](https://x.com/IOV_OWL)                 |
 | WietseWind (🛠+🪝 Xumm @ XRPL Labs)                     | @WietseWind           | [Profile](https://x.com/WietseWind)              |
-| Vet 🏴‍☠️                                                | @Vet_X0                | [Profile](https://x.com/Vet_X0)                  |
+| Vet 🏴‍☠️                                                | @Vet_X0                | [Profile](https://x.com/Vet_X0)                 |
 | Daniel 🇮🇲🪝                                             | @daniel_wwf           | [Profile](https://x.com/sirkunt)                 |
 | Panos 🔺 {X}                                          | @panosmek              | [Profile](https://x.com/panosmek)               |
 | Fomo {X}🪝                                              | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO)            |
@@ -34,7 +44,7 @@ Last updated 30 August 2023
 | On The Chain ®                                         | @on_the_chain          | [Profile](https://x.com/on_the_chain)           |      
 | Wo Jake 🪝                                              | @woj4ke               | [Profile](https://x.com/woj4ke)                  |
 | Mickey_B_Fresh☀️🪝                                      | @MrFreshTime          | [Profile](https://x.com/MrFreshTime)            |  
-| xrp.Darren🪝 🏴‍☠️                                         | @Fame21Moore             | [Profile](https://x.com/Fame21Moore)         |
+| xrp.Darren🪝 🏴‍☠️                                         | @Fame21Moore          | [Profile](https://x.com/Fame21Moore)            |
 
 
 To contribute to this list or raise concerns, please get in touch. Remember, the best way to be on this list is to provide accurate and updated information. Do your research and ensure relevance and accuracy before posting.
