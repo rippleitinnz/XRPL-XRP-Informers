@@ -33,7 +33,7 @@ Last updated 30 August 2023
 | King Solomon                                           | @IOV_OWL              | [Profile](https://x.com/IOV_OWL)                 |
 | WietseWind (🛠+🪝 Xumm @ XRPL Labs)                     | @WietseWind           | [Profile](https://x.com/WietseWind)              |
 | Vet 🏴‍☠️                                                | @Vet_X0                | [Profile](https://x.com/Vet_X0)                 |
-| Daniel 🇮🇲🪝                                             | @daniel_wwf           | [Profile](https://x.com/sirkunt)                 |
+| Daniel 🇮🇲🪝                                             | @daniel_wwf           | [Profile](https://x.com/daniel_wwf)              |
 | Panos 🔺 {X}                                          | @panosmek              | [Profile](https://x.com/panosmek)               |
 | REMOVED by request                                     |                       |                                                  |
 | XRPGoat                                                | @XrpGoat               | [Profile](https://x.com/XrpGoat)                |
