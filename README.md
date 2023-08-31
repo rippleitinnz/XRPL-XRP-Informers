@@ -35,8 +35,8 @@ Last updated 30 August 2023
 | Vet 🏴‍☠️                                                | @Vet_X0                | [Profile](https://x.com/Vet_X0)                 |
 | Daniel 🇮🇲🪝                                             | @daniel_wwf           | [Profile](https://x.com/sirkunt)                 |
 | Panos 🔺 {X}                                          | @panosmek              | [Profile](https://x.com/panosmek)               |
-| Fomo {X}🪝                                              | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO)            |
-| XRPGoat                                                | @XrpGoat           | [Profile](https://x.com/XrpGoat)             |
+| REMOVED by request                                     |                       |                                                  |
+| XRPGoat                                                | @XrpGoat               | [Profile](https://x.com/XrpGoat)                |
 | Mayukha Vadari                                         | @msvadari             | [Profile](https://x.com/msvadari)                |
 | Neil Hartner                                           | @illneil              | [Profile](https://x.com/illneil)                 |
 | nixerFFM                                               | @nixerFFM             | [Profile](https://x.com/nixerFFM)                | 
